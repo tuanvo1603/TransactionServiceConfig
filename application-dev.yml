@@ -10,7 +10,7 @@ spring:
     url: jdbc:mysql://localhost:3306/transactiondatabase
     driver-class-name: com.mysql.cj.jdbc.Driver
     username: root
-    password: Satgaino1@
+    password:{cipher} df38097b1aec659ee5529fc39aeb448fd360e7702e3a802e33765b25be6413ac
 
 #Jpa
   jpa:
